@@ -3,5 +3,4 @@
 ### here are the topics 
 
 1.Now to write shell script file
-2.printing
-3. writing 
+2.printing  writing 
